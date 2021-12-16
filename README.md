@@ -1,7 +1,6 @@
 # Softuni-Java-Advanced-May-2021
-This is my repository for Java Advanced course
 
-The concepts that i have practised in this course are -> 
+## The concepts that i have practised in this course are -> 
 
  - Stacks and Queues
  - Multidimentional Arrays
